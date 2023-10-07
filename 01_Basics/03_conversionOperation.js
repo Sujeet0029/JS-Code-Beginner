@@ -33,3 +33,11 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 let gameCounter = 100
 ++gameCounter
 console.log(gameCounter)
+//Increment Operation
+let x = 10
+const y = x++
+console.log(`x:${x}, y:${y}`)
+
+let a = 10
+const b = ++a
+console.log(`a:${a},b:${b}`);
