@@ -11,9 +11,25 @@ let valueInNumber = Number(score)
 let isLoggedIn = ""
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(typeof booleanIsLoggedIn)
-console.log(booleanIsLoggedIn)
+//console.log(typeof booleanIsLoggedIn)
+//console.log(booleanIsLoggedIn)
 
 // 1 => true; 0 => false
 // "" => false
 // "Sujeet" => true
+
+//************************ OPERATIONS ************************
+
+// console.log(2 + 2)
+// console.log(2 - 2)
+// console.log(2 * 2)
+// console.log(2 / 2)
+// console.log(2 % 3)
+// console.log(2 ** 2)
+
+// console.log(true);
+// console.log(+true);
+
+let gameCounter = 100
+++gameCounter
+console.log(gameCounter)
