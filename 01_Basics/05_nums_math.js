@@ -22,5 +22,6 @@
 // console.log(Math.min(4,2,50,8,0));
 // console.log(Math.max(4,2,50,8,0));
 
-// console.log(Math.random());
-console.log((Math.random()*5)+1);
+// const min = 10
+// const max = 100
+// console.log(Math.floor(Math.random()*(max - min)+1)+min);
