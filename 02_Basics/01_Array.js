@@ -22,6 +22,9 @@ const myHeros = ["shaktiman","naagraj"]
 // console.log(newArr);
 
 //slice, splice
-// console.log(numbers.slice(0,4));
-// console.log(numbers.splice(0,4));
+// const myArr = numbers.slice(0,3)
+// console.log("A",myArr);
+// console.log(numbers);
+// const myArr1 = numbers.splice(0,3)
+// console.log("B",myArr);
 // console.log(numbers);
