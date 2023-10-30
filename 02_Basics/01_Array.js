@@ -20,3 +20,8 @@ const myHeros = ["shaktiman","naagraj"]
 // const newArr = numbers.join()
 // console.log(numbers);
 // console.log(newArr);
+
+//slice, splice
+// console.log(numbers.slice(0,4));
+// console.log(numbers.splice(0,4));
+// console.log(numbers);
