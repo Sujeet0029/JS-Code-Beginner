@@ -16,3 +16,7 @@ const myHeros = ["shaktiman","naagraj"]
 // console.log(numbers.includes(0));
 // console.log(numbers.indexOf(7));
 // console.log(numbers.indexOf(0));
+
+// const newArr = numbers.join()
+// console.log(numbers);
+// console.log(newArr);
