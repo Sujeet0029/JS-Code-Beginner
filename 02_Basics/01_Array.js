@@ -12,4 +12,7 @@ const myHeros = ["shaktiman","naagraj"]
 // numbers.unshift(10)
 // numbers.shift()
 
-console.log(numbers);
+// console.log(numbers.includes(7));
+// console.log(numbers.includes(0));
+// console.log(numbers.indexOf(7));
+// console.log(numbers.indexOf(0));
