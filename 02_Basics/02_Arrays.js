@@ -11,3 +11,7 @@ const DC_Heroes = ["BATMAN","AQUAMAN","BARRY-ALLEN","GREEN-ARROW"]
 //2nd method
 // const all_new_heroes = [...Marvel_Heroes,...DC_Heroes]
 // console.log(all_new_heroes);
+
+// const another_array = [1,2,3,4,5,[6,7],[8,[9],10],11,12,13,[14,[15,16],17]]
+// const real_another_array = another_array.flat(Infinity)
+// console.log(real_another_array);
