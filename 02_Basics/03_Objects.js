@@ -63,3 +63,16 @@ const Obj2 = {3:"c", 4: "d"}
 
 // console.log(User.hasOwnProperty('name'));
 // console.log(User.hasOwnProperty('isLoggedIn'));
+
+const User1 = {
+    username: "John Sina",
+    userid: 123454,
+    email: "johnsina.google.com",
+}
+//Deconstructure
+
+const {username:name} = User1
+console.log(name);
+
+// const {username,userid} = User1
+// console.log(username,userid);
