@@ -24,3 +24,17 @@ function loginUserMesssage(username){
 // console.log(loginUserMesssage());
 // console.log(loginUserMesssage(""));
 // console.log(loginUserMesssage("Sujeet Singh"));
+
+function calculateCartPrice(...num1){
+    return num1
+}
+//console.log(calculateCartPrice(200,400,600,800));
+
+const User = {
+    username:"Jaspreet",
+    price:299
+}
+function handleObject(anyObject){
+    console.log(`Username is ${anyObject.username} and price is ${anyObject.price}`);
+}
+handleObject(User)
