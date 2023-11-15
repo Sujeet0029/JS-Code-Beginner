@@ -37,4 +37,11 @@ const User = {
 function handleObject(anyObject){
     console.log(`Username is ${anyObject.username} and price is ${anyObject.price}`);
 }
-handleObject(User)
+//handleObject(User)
+
+const myNewArray = [100,200,300,400]
+
+function returnSecondValue(getArray){
+    return getArray[1]
+}
+//console.log(returnSecondValue(myNewArray));
